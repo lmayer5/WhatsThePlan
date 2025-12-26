@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+redis
+requests
+python-jose[cryptography]
+passlib
+python-multipart
